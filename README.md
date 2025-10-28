@@ -1,5 +1,5 @@
 # **Halloween**  
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b7e2f3dc-777e-4b21-95c1-0fd43f353521" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-27 135455" src="https://github.com/user-attachments/assets/80d35f79-3174-4f7b-884a-32d95999ba34" />
 
 A 3D game developed in Unity using C#, where players control a ghost to collect 20 power items across a plane without falling off the ground.  
 
